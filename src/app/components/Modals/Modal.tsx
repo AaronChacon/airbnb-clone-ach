@@ -181,6 +181,7 @@ const Modal: React.FC<ModalProps> = ({
                             </div>
 
                             {/* FOOTER */}
+
                             <div
                                 className='
                                     flex flex-col gap-2 p-6
@@ -208,6 +209,7 @@ const Modal: React.FC<ModalProps> = ({
                                 </div>
 
 
+                                {footer}
                             </div>
 
 
